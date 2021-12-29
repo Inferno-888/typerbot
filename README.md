@@ -12,5 +12,3 @@ icon file: includes the icon (top-left corner) of the bot's window (visible when
 
 
 Note:- I DO NOT encourage cheating on typing races or tests; this project was created out of my sheer interest in high speed typing. It is only meant to be used with virtuous intentions. If you want to learn how to type fast, you got to put in the effort and time to actually learn the skill; using a typing bot might put you at the top of the leaderboard, but you will not actually be learning anything useful, rather, just wasting your time.
-
-DISCLAIMER: THE USE OF THIS BOT IS AT YOUR OWN RISK; THE CODER IS NOT RESPONSIBLE FOR ANY LEGAL CONSEQUENCES.
